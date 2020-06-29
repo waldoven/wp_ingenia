@@ -1,0 +1,28 @@
+# Translation of Themes - FashionPoint in Spanish (Spain)
+# This file is distributed under the same license as the Themes - FashionPoint package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-18 11:35:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - FashionPoint\n"
+
+#. Theme Name of the theme
+msgid "FashionPoint"
+msgstr "FashionPoint"
+
+#. Description of the theme
+msgid "FashionPoint is child theme of StoreOne. FashionPoint is Powerful multipurpose WooCommerce WordPress Theme. FashionPoint is the perfect free theme for e-commerce shop. FashionPoint is responsive mobile optimized and using bootstrap framework. to show awesome icons on site it's using FontAwesome icons. FashionPoint is Search Engine Optimized (SEO) friendly. Theme is developed to be used for any business, corporate, companies, or freelancers to create an awesome online presence. FashionPoint is highly recommended for business, informative, agencies, travel, design, art, personal, restaurant, construction, health, digital agency, bloggers, corporate business, freelancers, portfolio, product showcase, and any other creative e-commerce websites. Even with all the Powerful features the theme is optimized for fast performance and security.Theme includes customizable homepage, awesome slider, social links, latest products, latest blog section and other Advance section. Theme Provide 3 page Template (Home Page , Full Width, Left Sidebar) to select layout. FashionPoint is perfect suitable for clothing, electronics, mobile and almost any type of store website. FashionPoint is good for eCommerce solution and compatible with contact form 7, JetPack, WPML. Documentation available at https://www.themefarmer.com/documentation/documentation-storeone/ and check the Demo at http://demo.themefarmer.com/fashionpoint/"
+msgstr "FashionPoint es el tema secundario de StoreOne. FashionPoint es un potente tema de WordPress WooCommerce multiusos. FashionPoint es el tema libre perfecto para la tienda de comercio electrónico. FashionPoint está optimizado para dispositivos móviles con capacidad de respuesta y utiliza el marco de bootstrap. para mostrar iconos impresionantes en el sitio está usando iconos de FontAwesome. FashionPoint es un motor de búsqueda optimizado (SEO) amigable. El tema se ha desarrollado para que cualquier empresa, empresa, empresa o profesional independiente pueda crear una presencia en línea increíble. FashionPoint es altamente recomendado para negocios, informativos, agencias, viajes, diseño, arte, personal, restaurantes, construcción, salud, agencia digital, bloggers, negocios corporativos, autónomos, portafolio, escaparate de productos y cualquier otro sitio web de comercio electrónico creativo. Incluso con todas las poderosas características, el tema está optimizado para un rendimiento y seguridad rápidos. El tema incluye una página de inicio personalizable, un carrusel impresionante, enlaces sociales, los últimos productos, la última sección del blog y otra sección avanzada. El tema proporciona una plantilla de 3 páginas (página de inicio, ancho completo, barra lateral izquierda) para seleccionar el diseño. FashionPoint es perfecto para ropa, electrónica, dispositivos móviles y casi cualquier tipo de sitio web de tiendas. FashionPoint es bueno para la solución de comercio electrónico y es compatible con el formulario de contacto 7, JetPack, WPML. La documentación está disponible en https://www.themefarmer.com/documentation/documentation-storeone/ y consulte la demostración en http://demo.themefarmer.com/fashionpoint/"
+
+#. Author URI of the theme
+msgid "https://www.themefarmer.com"
+msgstr "https://www.themefarmer.com"
+
+#. Author of the theme
+msgid "ThemeFarmer"
+msgstr "ThemeFarmer"
